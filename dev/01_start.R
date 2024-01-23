@@ -48,8 +48,10 @@ usethis::use_news_md(open = FALSE)
 
 ## Use git ----
 usethis::use_git()
+usethis::use_git_remote(url = "https://github.com/caitobrien/SacPASquerydata.git", overwrite = TRUE)
+usethis::use_github()
 
-4## Init Testing Infrastructure ----
+## Init Testing Infrastructure ----
 ## Create a template for tests
 golem::use_recommended_tests()
 
