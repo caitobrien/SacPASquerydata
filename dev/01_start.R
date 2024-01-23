@@ -21,9 +21,9 @@
 golem::fill_desc(
   pkg_name = "SacPASquerydata", # The Name of the package containing the App
   pkg_title = "UW-CBR SacPAS query data", # The Title of the package containing the App
-  pkg_description = "Package to allow user to query river data from SacPAS and import to R directly", # The Description of the package containing the App
+  pkg_description = "Package to allow user to query river data from SacPAS and import to R directly.", # The Description of the package containing the App
   author_first_name = "Caitlin", # Your First Name
-  author_last_name = "O'Brien", # Your Last Name
+  author_last_name = "OBrien", # Your Last Name
   author_email = "csobrien@uw.edu", # Your Email
   repo_url = "https://github.com/caitobrien/SacPASquerydata.git", # The URL of the GitHub Repo (optional),
   pkg_version = "0.0.0.9000" # The Version of the package containing the App
